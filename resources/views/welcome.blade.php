@@ -22,6 +22,9 @@
                 padding:0.5rem;
                 margin:0.5rem;
             }
+            .font-ell{
+                padding:0.7rem;
+            }
         </style>
     </head>
     <body class="antialiased">
